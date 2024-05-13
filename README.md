@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Sadisatsowala</h1>
-<h3 align="center">Web Developer Trainee</h3>
+<h3 align="center">Web Development Trainee</h3>
 
 - 🔭 I’m currently working on [Hackathon Project](https://github.com/Dev750wala/Hackathon-SCET)
 
