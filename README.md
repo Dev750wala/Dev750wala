@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Sadisatsowala</h1>
 <h3 align="center">Web Development Trainee</h3>
 
-- 🔭 I’m currently working on [Email Client with AI intergration](https://github.com/Dev750wala/email-client)
-
-- 🌱 I’m currently learning **GraphQL and RHEL**
-
-- 👨‍💻 All of my projects are available at [https://devsadisatsowala.netlify.app](https://devsadisatsowala.netlify.app)
+- 🔭 I’m currently learning Web3.
 
 - 📫 How to reach me **sadisatsowaladev1@gmail.com**
 
