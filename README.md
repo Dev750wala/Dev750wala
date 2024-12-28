@@ -1,24 +1,27 @@
 <h1 align="center"> 👋 Hi, I'm Dev Sadisatsowala</h1>
 <h3 align="center">I build engaging and scalable web applications.</h3>
 
----
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="75%" height="17%"/>
+</div>
 
-### 🚀 About Me:
-
-- 🌱 Currently exploring **TypeScript**, **Solidity** and **Ethereum network**.
-- 📫 Visit my portfolio at <a target="_blank"> https://devsadisatsowala.tech</a>
+<div align="center">
+  <a target="_blank" href="https://devsadisatsowala.tech" rel="noreferer" > 
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="75%" height="17%"/>
+  </a>
+</div>
 
 ---
 
 ### 📈 My Stats:
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Dev750wala&theme=dark&background=000000" alt="GitHub Streak Stats" width="70%">
+  <a href="https://devsadisatsowala.tech">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Dev750wala&theme=dark&background=000000" alt="GitHub Streak Stats" width="75%">
   </a>
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev750wala&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="70%">
+  <a href="https://devsadisatsowala.tech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev750wala&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="75%">
   </a>
 </div>
 
@@ -27,12 +30,6 @@
 ### 🛠️ Languages and Tools:
 
 <div align="center">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="50" height="50"/>
   </a>
